@@ -1,30 +1,12 @@
 const tasksState = {
   tasks: [
 
+
     {
 
 
-      
+
       id: 1,
-      projectId: 1,
-      title: 'Report making',
-      members: [
-        {
-          name: 'Vignesh',
-          photo:
-            'https://images.unsplash.com/photo-1600180758890-6b94519a8ba6?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80',
-        }
-     
-      ],
-      progress: 0,
-    },
-
-
-    {
-
-
-
-      id: 2,
       projectId: 1,
       title: 'Problem Statement finalize',
       members: [
@@ -38,7 +20,7 @@ const tasksState = {
       progress: 15,
     },
     {
-      id: 3,
+      id: 2,
       projectId: 1,
       title: 'Frontend implementation',
       members: [
@@ -52,7 +34,7 @@ const tasksState = {
       progress: 20,
     },
     {
-      id: 4,
+      id: 3,
       projectId: 2,
       title: 'Literature Survey',
       members: [
@@ -66,7 +48,7 @@ const tasksState = {
       progress: 80,
     },
     {
-      id: 5,
+      id: 4,
       projectId: 2,
       title: 'Conferences list',
       members: [
