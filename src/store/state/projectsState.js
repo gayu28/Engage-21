@@ -62,24 +62,7 @@ const projectState = {
       status: 'ongoing',
     },
 
-    {
-      id: 4,
-      title: 'Machine learning',
-      description: 'seminar',
-      team: [
-        {
-          name: 'Veronica',
-          photo:
-            'https://images.unsplash.com/photo-1600180758890-6b94519a8ba6?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80',
-        },
-        
-      ],
-      progress: 0,
-      createdAt: 'Nov 27 2021',
-      tasks: 0,
-      status: 'ongoing',
-    },
-
+    
 
   ],
 };
